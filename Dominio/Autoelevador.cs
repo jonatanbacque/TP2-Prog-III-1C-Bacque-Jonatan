@@ -11,6 +11,5 @@ namespace Dominio
         public int ID { get; set; }
         public string Nombre { get; set; }
         public float Capacidad { get; set; } // peso que soporta
-        public int Deposito { get; set; } // deposito en el que se encuentra
     }
 }
